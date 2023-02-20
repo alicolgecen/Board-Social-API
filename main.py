@@ -81,3 +81,5 @@ def update_post(id:int, post:UpdatePost):
     return {
         "data": post_dict
     }
+
+# 02:18:00'da kaldım
