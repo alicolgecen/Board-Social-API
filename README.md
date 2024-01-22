@@ -4,7 +4,7 @@ Share what's on your mind and see what others are talking about. Upvote and down
 More:
 - Written in Python
 - Based on Fast API framework
-- Uses Alembic ORM to connect to PostgreSQL database
+- Uses SQL Alchemy and Alembic ORM to connect to PostgreSQL databases
 - Testing infrastructure is included
 
 ## Current features
